@@ -1,0 +1,1 @@
+find_package(SCOREC 2.0.0 REQUIRED PATHS ${Scorec_PREFIX} NO_DEFAULT_PATH)
