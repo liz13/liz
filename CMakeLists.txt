@@ -13,5 +13,6 @@ bob_cxx11_flags()
 bob_end_cxx_flags()
 
 include(cmake/dependencies.cmake)
+add_subdirectory(src)
 
 bob_end_package()
